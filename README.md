@@ -26,4 +26,35 @@ I created "Delivery duration column. to do this;
 I merge dates inside date column with timestamps in order time and delivery time, then subtract former from latter. to get delivery time,i changed results from time and date to numbers.
 ## Exploratory Data Analysis
 trying to understand the data better, I look at it well(dimensions and measure). They, I performed summary statistics to understand it greatly. The results are:
+Total Orders: 72314
+ASAP Orders: 57742
+Scheduled Orders: 14572
+Mean Delivery Time (min): 33.95
+Median Delivery Time (min): 60.72
+Mode Delivery Time (min): 47.54
+SD Delivery Time (min): 252.96
+Skewness: 3.68
+Kurtosis: 12.60
+Max Delivery Time (min): 1399.68
+ASAP Mean (min): 128.22
+ASAP Median (min): 58.28
+ASAP Mode (min): 53.42
+ASAP SD (min): 247.93
+ASAP Max (min): 1399.68
+Scheduled Mean (min): 156.66
+Scheduled Median (min): 71.37
+Scheduled Mode (min): 51.59
+Scheduled SD (min): 270.78
+Scheduled Max (min): 1398.87
+  I then prepared pre- Analysis questions, as listed below:
+- How is revenue trend (by week)
+- When are Orders placed? (time cycle like mornings,..., weekday)
+- Revenue by area and day type
+- avg delivery by day of week(acrothe week)
+- tip by day of week
+- order completion rate
+- driver efficiency.
+
+
+
 
