@@ -27,14 +27,16 @@ The dataset contains 72,314 records of food delivery transactions with the follo
 Converted the resulting values into minutes for easier analysis.
 ## Exploratory Data Analysis
 To better understand the data, I explored both dimensions and measures using summary statistics.
-Key Summary Statistics
+Key Summary Statistics:
+
 ● Total Orders: 72,314
 ● ASAP Orders: 57,742
-● Scheduled Orders: 14,572
+● Scheduled Orders: 14,572.
 Delivery Times (Minutes):
 ● Overall: Mean = 133.95 | Median = 60.72 | Mode = 47.54 | SD = 252.96 | Max = 1399.68
 ● ASAP Orders: Mean = 128.22 | Median = 58.28 | Mode = 53.42 | SD = 247.93 | Max = 1399.68
-● Scheduled Orders: Mean = 156.66 | Median = 71.37 | Mode = 51.59 | SD = 270.78 | Max = 1398.87
+● Scheduled Orders: Mean = 156.66 | Median = 71.37 | Mode = 51.59 | SD = 270.78 | Max = 1398.87.
+
 Skewness: 3.68 (positively skewed)
 Kurtosis: 12.60 (heavy-tailed distribution)
 ### Pre-Analysis Questions
