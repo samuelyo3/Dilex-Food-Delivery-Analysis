@@ -3,23 +3,23 @@
 Dilex, a food delivery company, has experienced steady sales growth but limited improvements in profitability, efficiency, and overall performance. To understand these challenges, the company commissioned an analysis of 5 months of delivery data. The goal is to uncover insights that can optimize operations, enhance customer satisfaction, and improve profitability.
 ## Dataset Overview 
 The dataset contains 72,314 records of food delivery transactions with the following fields:
-Date: The day the order was placed.
-Time customer placed order: When the customer submitted their order.
-Time order placed at restaurant: When the restaurant received the order.
-Time driver arrived at restaurant: When the delivery driver reached the restaurant.
-Delivery time: Time taken to complete the delivery.
-Driver ID: Unique identifier for each driver.
-Driver Name: Name of the delivery driver.
-Restaurant ID: Unique identifier for each restaurant.
-Customer ID: Unique identifier for each customer.
-Delivery Area: The area/zone where the delivery was made.
-ASAP: Whether the order was marked for immediate delivery or scheduled.
-Sub Total: Cost of food items before fees, discounts, or tips.
-Delivery Fee: Charge for delivery service.
-Service Fee: Platform or restaurant service charge.
-Discount: Any discount applied to the order.
-Tip: Extra amount given by the customer to the driver.
-Refunded amount: Amount returned to the customer in case of issues.
+- Date: The day the order was placed.
+- Time customer placed order: When the customer submitted their order.
+- Time order placed at restaurant: When the restaurant received the order.
+-Time driver arrived at restaurant: When the delivery driver reached the restaurant.
+- Delivery time: Time taken to complete the delivery.
+- Driver ID: Unique identifier for each driver.
+- Driver Name: Name of the delivery driver.
+- Restaurant ID: Unique identifier for each restaurant.
+- Customer ID: Unique identifier for each customer.
+- Delivery Area: The area/zone where the delivery was made.
+- ASAP: Whether the order was marked for immediate delivery or scheduled.
+- Sub Total: Cost of food items before fees, discounts, or tips.
+- Delivery Fee: Charge for delivery service.
+- Service Fee: Platform or restaurant service charge.
+- Discount: Any discount applied to the order.
+- Tip: Extra amount given by the customer to the driver.
+- Refunded amount: Amount returned to the customer in case of issues.
 ## Data Preparation
 - Checked the dataset for consistency and cleaned irregularities.
 - Converted relevant fields (e.g., currency values) from text to numeric formats.
