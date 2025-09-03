@@ -63,4 +63,8 @@ When comparing order types, scheduled deliveries are slower (mean = 156.7 minute
 Overall, the data shows that delivery operations are inconsistent: the majority of customers experience delivery in under an hour, but frequent delays push up averages and risk damaging customer satisfaction. The business impact is clear: long delays, particularly in ASAP orders, likely contribute to refunds, lower tips, and reduced repeat orders.
 In summary, while the majority of orders are completed within a reasonable time, the presence of extreme delays drags down overall performance. Scheduled orders are slower and less predictable, while ASAP orders dominate the demand but suffer from occasional major breakdowns. 
 
-
+# Recommendations
+- Optimize delivery times by leveraging smarter route planning and efficient assignment of orders to drivers.
+- Introduce a structured mentorship and training program where top-performing drivers (e.g., those with the fastest delivery times and highest tips) share best practices, while all drivers receive skill development. Reward both mentors and mentees for measurable improvements to foster a culture of speed, efficiency, and excellence.
+- Partner with high-value restaurants, prioritizing popular breakfast and brunch spots since 80% of orders occur in the morning. This ensures partnerships align with peak demand, maximizing revenue opportunities.
+- Strengthen marketing efforts with targeted promotions and ads during peak order times (mornings, evenings, and nights) and high-demand days (Wednesdays, weekends, and Thursdays). Additionally, review the performance of existing discount strategies to refine offers that drive sales without hurting profitability.
