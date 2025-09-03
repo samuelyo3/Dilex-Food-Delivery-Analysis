@@ -1,5 +1,5 @@
 # Dilex Food Delivery Analysis
-## Induction
+## Introduction
 Dilex, a food delivery company, has experienced steady sales growth but limited improvements in profitability, efficiency, and overall performance. To understand these challenges, the company commissioned an analysis of 5 months of delivery data. The goal is to uncover insights that can optimize operations, enhance customer satisfaction, and improve profitability.
 ## Dataset Overview 
 The dataset contains 72,314 records of food delivery transactions with the following fields:
