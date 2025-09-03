@@ -20,6 +20,8 @@ The dataset contains 72,314 records of food delivery transactions with the follo
 - Discount: Any discount applied to the order.
 - Tip: Extra amount given by the customer to the driver.
 - Refunded amount: Amount returned to the customer in case of issues.
+## Tools
+Microsoft Excel
 ## Data Preparation
 - Checked the dataset for consistency and cleaned irregularities.
 - Converted relevant fields (e.g., currency values) from text to numeric formats.
