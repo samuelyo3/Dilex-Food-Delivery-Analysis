@@ -48,6 +48,10 @@ To guide the analysis, the following questions were prepared:
 - How do tips vary across days of the week?
 - What is the order completion rate (delivered vs refunded)?
 - How efficient are drivers in completing deliveries?
-
+## Insights
+1.	Revenue showed a steady upward trend from January to April, peaking in Week 17, closely followed by Week 16. The lowest revenue was recorded in Week 1, followed by Week 3, with Week 18 also ranking among the lowest four. This indicates consistent growth over the four-month period despite occasional dips
+2.	Performance across the three similar. Revenue is $2.59M in Union City, $2.60M in Fremont, and $2.62M in Hayward, indicating no significant variation across locations.
+3.	Order patterns show clear peaks in the mornings, accounting for 80% of all orders, followed by evenings (9%) and nights (8%). Across days, Wednesday records the highest orders, followed by Saturday, while Friday sees the lowest activity.
+4.	Average delivery time is 134 minutes (≈2h 14m). Delivery was fastest in January (68 mins), worsened steadily to March (165 mins), but improved in April (143 mins). Across weekdays, Fridays (140 mins) and Mondays (139 mins) face the longest delays, while Wednesdays record the fastest deliveries (122 mins).
 
 
